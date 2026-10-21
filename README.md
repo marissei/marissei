@@ -1,106 +1,76 @@
-[README.md](https://github.com/user-attachments/files/33772728/README.md)
+[README.md](https://github.com/user-attachments/files/33773139/README.md)
 <div align="center">
 
 <br>
 
-<!-- Uses your GitHub avatar automatically. -->
-<img src="https://github.com/marissei.png" width="120" height="120" alt="marissei's GitHub profile picture" />
+<img src="https://github.com/marissei.png" width="120" height="120" alt="marissei profile picture" />
 
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=42&duration=3500&pause=900&color=9EDFFF&center=true&vCenter=true&repeat=false&width=700&height=65&lines=Hello+hello+%E2%98%86">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=42&duration=3500&pause=900&color=246A86&center=true&vCenter=true&repeat=false&width=700&height=65&lines=Hello+hello+%E2%98%86">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=42&duration=3500&pause=900&color=246A86&center=true&vCenter=true&repeat=false&width=700&height=65&lines=Hello+hello+%E2%98%86" alt="Hello hello">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=42&duration=3500&pause=900&color=E8DED0&center=true&vCenter=true&repeat=false&width=700&height=65&lines=Hello+hello+%E2%98%86">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=42&duration=3500&pause=900&color=3D3025&center=true&vCenter=true&repeat=false&width=700&height=65&lines=Hello+hello+%E2%98%86">
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=42&duration=3500&pause=900&color=3D3025&center=true&vCenter=true&repeat=false&width=700&height=65&lines=Hello+hello+%E2%98%86" alt="Hello hello">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&size=16&duration=3000&pause=1000&color=9EDFFF&center=true&vCenter=true&width=700&height=35&lines=student+%E2%80%A2+future+software+engineer+%E2%80%A2+cybersecurity+curious">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&size=16&duration=3000&pause=1000&color=246A86&center=true&vCenter=true&width=700&height=35&lines=student+%E2%80%A2+future+software+engineer+%E2%80%A2+cybersecurity+curious">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=16&duration=3000&pause=1000&color=246A86&center=true&vCenter=true&width=700&height=35&lines=student+%E2%80%A2+future+software+engineer+%E2%80%A2+cybersecurity+curious" alt="student, future software engineer, cybersecurity curious">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&size=16&duration=3000&pause=1000&color=8FA36B&center=true&vCenter=true&width=650&height=35&lines=student+%E2%80%A2+future+software+engineer+%E2%80%A2+cybersecurity">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&size=16&duration=3000&pause=1000&color=657A50&center=true&vCenter=true&width=650&height=35&lines=student+%E2%80%A2+future+software+engineer+%E2%80%A2+cybersecurity">
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=16&duration=3000&pause=1000&color=657A50&center=true&vCenter=true&width=650&height=35&lines=student+%E2%80%A2+future+software+engineer+%E2%80%A2+cybersecurity" alt="student, future software engineer, cybersecurity">
 </picture>
 
 <br>
 
-<sub>learning · creating · exploring the deep blue · rebuilding ✧</sub>
-
-<br><br>
-
-<a href="https://github.com/marissei">
-  <img src="https://img.shields.io/badge/GitHub-%40marissei-181717?style=flat-square&logo=github" alt="GitHub @marissei">
-</a>
-<img src="https://img.shields.io/badge/Portugal-246A86?style=flat-square&logo=googlemaps&logoColor=white" alt="Portugal">
+<sub>creating · learning · experimenting · rebuilding</sub>
 
 <br><br>
 
 ---
 
-### ☁️ about me
+### ☕ about me
 
-Hi, I'm **m** — **[@marissei](https://github.com/marissei)**. I'm a student in Portugal learning to code and exploring where I want to take my future in tech.
+**m** · [@marissei](https://github.com/marissei) · Portugal
 
-I'm interested in becoming a **software engineer** or working in **cybersecurity**. For now, I'm building my foundations, trying things out, and learning one project at a time.
+Student learning to code, building skills, and figuring out my path in tech. I'm aiming toward **software engineering** or **cybersecurity** — one project and one new concept at a time.
 
-`Student` · `Programming` · `Software Engineering` · `Cybersecurity`
-
-<br>
-
-<img src="https://media1.tenor.com/m/0u-e10TjzmYAAAAd/anime-ocean.gif" width="520" alt="Anime-style ocean scenery">
+`Python` · `HTML` · `CSS` · `C#` · `Java (beginner)`
 
 <br>
 
-<sub>somewhere between the sea breeze and the next line of code 🌊</sub>
+<img src="https://i.pinimg.com/originals/c6/e7/7f/c6e77f9f5a098890ff15eb3ad430fbae.gif" width="520" alt="Anime aesthetic GIF from original template">
+
+<br>
+
+<sub>somewhere between code and chaos</sub>
 
 <br><br>
 
 ---
 
-### 🌊 currently
+### 🍃 currently
 
 ```text
-learning and practicing programming
-building my skills step by step
+learning programming fundamentals
+building small projects
 exploring software engineering
-curious about cybersecurity
+getting curious about cybersecurity
 ```
 
 <br>
 
-<img src="https://media1.tenor.com/m/QzzG8EhwV-oAAAAd/sealion-sea-lion.gif" width="420" alt="Anime sea lion from Kemono Friends">
+<img src="https://i.pinimg.com/originals/5b/38/9c/5b389c28090e09c9974246f61c27fd2c.gif" width="520" alt="Anime aesthetic GIF from original template">
 
 <br><br>
 
 ---
 
-### 🐚 languages & toolbox
+### 🌿 toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,cs,java&perline=5" alt="Python, HTML, CSS, C sharp, and Java">
+  <img src="https://skillicons.dev/icons?i=python,cs,java,html,css&perline=5" alt="Python, C sharp, Java, HTML, CSS">
 </p>
 
-- 🐍 **Python**
-- 🌐 **HTML**
-- 🎨 **CSS**
-- 💠 **C#**
-- ☕ **Java** — just a little so far
-
-I'm still learning, so this list reflects my current experience rather than a claim of expert-level skills.
-
-<br>
-
-<img src="https://media.tenor.com/NveJNz3hGVUAAAAM/sad-seal-lost-in-thought-omg-what-happend-inefablejuly.gif" width="180" alt="Cute seal GIF">
-
-<br><br>
-
----
-
-### 🛡️ goals
-
-- [ ] Keep improving my programming fundamentals
-- [ ] Make projects with Python and web technologies
-- [ ] Learn more about software engineering
-- [ ] Explore cybersecurity through safe, legal practice
-- [ ] Build up my GitHub portfolio over time
+<sub>Still learning — always improving.</sub>
 
 <br><br>
 
@@ -109,47 +79,54 @@ I'm still learning, so this list reflects my current experience rather than a cl
 ### 🌱 github garden
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=marissei&bg_color=00000000&color=9EDFFF&line=55AFCB&point=E8F7FF&area=true&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=marissei&bg_color=00000000&color=246A86&line=55AFCB&point=163D4D&area=true&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marissei&bg_color=00000000&color=246A86&line=55AFCB&point=163D4D&area=true&hide_border=true" width="95%" alt="GitHub activity graph for marissei">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=marissei&bg_color=00000000&color=BDB3A6&line=8FA36B&point=B38B63&area=true&hide_border=true">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=marissei&bg_color=00000000&color=6B625A&line=657A50&point=9A7653&area=true&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marissei&bg_color=00000000&color=6B625A&line=657A50&point=9A7653&area=true&hide_border=true" width="95%" alt="GitHub activity graph for marissei">
 </picture>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=marissei&show_icons=true&hide_border=true&bg_color=00000000&title_color=55AFCB&icon_color=55AFCB&text_color=8A9AA6" height="165" alt="GitHub statistics for marissei">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marissei&layout=compact&hide_border=true&bg_color=00000000&title_color=55AFCB&text_color=8A9AA6" height="165" alt="Most used languages for marissei">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=marissei&hide_border=true&background=00000000&ring=8FA36B&fire=B38B63&currStreakLabel=BDB3A6&sideLabels=8B8177&currStreakNum=E8DED0&sideNums=E8DED0&dates=8B8177">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=marissei&hide_border=true&background=00000000&ring=657A50&fire=9A7653&currStreakLabel=3D3025&sideLabels=7A7169&currStreakNum=3D3025&sideNums=3D3025&dates=8A8178">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marissei&hide_border=true&background=00000000&ring=657A50&fire=9A7653&currStreakLabel=3D3025&sideLabels=7A7169&currStreakNum=3D3025&sideNums=3D3025&dates=8A8178" width="75%" alt="GitHub streak for marissei">
+</picture>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=marissei&hide_border=true&background=00000000&ring=55AFCB&fire=55AFCB&currStreakLabel=55AFCB&sideLabels=8A9AA6&currStreakNum=55AFCB&sideNums=55AFCB&dates=8A9AA6" width="75%" alt="GitHub streak for marissei">
+<img src="https://i.pinimg.com/736x/cc/ef/7c/ccef7c7587ce6524d55862c9736b8a71.jpg" width="520" alt="Decorative image from original template">
 
 <br><br>
 
 ---
 
-### 🎧 discord presence
+### 🎮 discord presence
 
 <!--
-Want a live Discord status/activity card here?
-1. Replace YOUR_DISCORD_USER_ID with your numeric Discord user ID.
-2. Make sure your Discord presence is available to Lanyard (see https://lanyard.cnrad.dev/).
-3. Uncomment the next two lines.
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/YOUR_DISCORD_USER_ID?theme=dark&bg=00000000&borderRadius=12px)](https://discord.com/users/YOUR_DISCORD_USER_ID)
+To show your live Discord status/activity, use your own numeric Discord user ID:
+[![Discord Presence](https://lanyard.cnrad.dev/api/YOUR_DISCORD_USER_ID)](https://discord.com/users/YOUR_DISCORD_USER_ID)
 -->
 
-<sub>Discord activity card can be added once you share your Discord user ID. Don't use someone else's ID.</sub>
+<sub>Discord presence card can be added when you provide your Discord user ID.</sub>
 
 <br><br>
 
-<sub><i>thanks for swimming by ♡</i></sub>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" alt="Kyubey anime GIF from original template">
+
+<br>
+
+<sub><i>thanks for stopping by ♡</i></sub>
 
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=55AFCB&height=90&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=246A86&height=90&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=246A86&height=90&section=footer" width="100%" alt="Blue ocean-inspired footer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=8FA36B&height=80&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=657A50&height=80&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=657A50&height=80&section=footer" width="100%" alt="Sage green wave footer">
 </picture>
 
 </div>
