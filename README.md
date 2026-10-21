@@ -108,7 +108,7 @@ getting curious about cybersecurity
 
 <!--
 To show your live Discord status/activity, use your own numeric Discord user ID:
-[![Discord Presence](https://lanyard.cnrad.dev/api/YOUR_DISCORD_USER_ID)](https://discord.com/users/YOUR_DISCORD_USER_ID)
+[![Discord Presence](https://lanyard.cnrad.dev/api/751003630059913226)](https://discord.com/users/751003630059913226)
 -->
 
 <sub>Discord presence card can be added when you provide your Discord user ID.</sub>
