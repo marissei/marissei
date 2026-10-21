@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33773139/README.md)
+[README.md](https://github.com/user-attachments/files/33773641/README.md)
 <div align="center">
 
 <br>
@@ -104,9 +104,9 @@ getting curious about cybersecurity
 
 ---
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/751003630059913226)](https://discord.com/users/751003630059913226)
+### 🎮 discord presence
 
-<sub>Discord presence card can be added when you provide your Discord user ID.</sub>
+[![Discord Presence](https://lanyard.cnrad.dev/api/751003630059913226)](https://discord.com/users/751003630059913226)
 
 <br><br>
 
